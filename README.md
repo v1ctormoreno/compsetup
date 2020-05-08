@@ -1,0 +1,2 @@
+# compsetup
+Computer setup routine
