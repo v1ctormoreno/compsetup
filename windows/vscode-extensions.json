@@ -1,252 +1,252 @@
 [
-{
-metadata: {
-id: "fa57ae0e-d21e-40d8-a0bb-a58b5fd9ead3",
-publisherId: "ms-vscode.atom-keybindings",
-publisherDisplayName: "ms-vscode"
-},
-name: "atom-keybindings",
-publisher: "ms-vscode",
-version: "3.0.6"
-},
-{
-metadata: {
-id: "d3836729-9cc1-42c1-b2af-d50071f57d29",
-publisherId: "formulahendry.auto-close-tag",
-publisherDisplayName: "formulahendry"
-},
-name: "auto-close-tag",
-publisher: "formulahendry",
-version: "0.5.6"
-},
-{
-metadata: {
-id: "6e440e71-8ed9-4f25-bb78-4b13096b8a03",
-publisherId: "formulahendry.auto-rename-tag",
-publisherDisplayName: "formulahendry"
-},
-name: "auto-rename-tag",
-publisher: "formulahendry",
-version: "0.1.1"
-},
-{
-metadata: {
-id: "697255a9-3f36-44c8-b084-d3b91edfb23a",
-publisherId: "HookyQR.beautify",
-publisherDisplayName: "HookyQR"
-},
-name: "beautify",
-publisher: "HookyQR",
-version: "1.5.0"
-},
-{
-metadata: {
-id: "2a658c1b-308a-41e8-805a-fc8abda483bc",
-publisherId: "thekalinga.bootstrap4-vscode",
-publisherDisplayName: "thekalinga"
-},
-name: "bootstrap4-vscode",
-publisher: "thekalinga",
-version: "6.1.0"
-},
-{
-metadata: {
-id: "f583eafd-aa0d-4ccb-8f44-d1e610389660",
-publisherId: "CoenraadS.bracket-pair-colorizer",
-publisherDisplayName: "CoenraadS"
-},
-name: "bracket-pair-colorizer",
-publisher: "CoenraadS",
-version: "1.0.61"
-},
-{
-metadata: {
-id: "1256df07-e7c0-4e17-bd23-96b617cf21bc",
-publisherId: "sldobri.bunker",
-publisherDisplayName: "sldobri"
-},
-name: "bunker",
-publisher: "sldobri",
-version: "1.1.6"
-},
-{
-metadata: {
-id: "e337c67b-55c2-4fef-8949-eb260e7fb7fd",
-publisherId: "Shan.code-settings-sync",
-publisherDisplayName: "Shan"
-},
-name: "code-settings-sync",
-publisher: "Shan",
-version: "3.4.3"
-},
-{
-metadata: {
-id: "690b692e-e8a9-493f-b802-8089d50ac1b2",
-publisherId: "ms-vscode.cpptools",
-publisherDisplayName: "ms-vscode"
-},
-name: "cpptools",
-publisher: "ms-vscode",
-version: "0.27.0"
-},
-{
-metadata: {
-id: "4de763bd-505d-4978-9575-2b7696ecf94e",
-publisherId: "eamodio.gitlens",
-publisherDisplayName: "eamodio"
-},
-name: "gitlens",
-publisher: "eamodio",
-version: "10.2.1"
-},
-{
-metadata: {
-id: "6c6d4703-0393-49e4-bcbe-2c01f5184522",
-publisherId: "andrejunges.Handlebars",
-publisherDisplayName: "andrejunges"
-},
-name: "Handlebars",
-publisher: "andrejunges",
-version: "0.4.1"
-},
-{
-metadata: {
-id: "8198faf3-ad10-462e-901a-16462816cc58",
-publisherId: "mfeckies.handlebars-formatter",
-publisherDisplayName: "mfeckies"
-},
-name: "handlebars-formatter",
-publisher: "mfeckies",
-version: "0.0.5"
-},
-{
-metadata: {
-id: "a2cec723-5349-460d-9de9-0fd1f8d3456f",
-publisherId: "xabikos.JavaScriptSnippets",
-publisherDisplayName: "xabikos"
-},
-name: "JavaScriptSnippets",
-publisher: "xabikos",
-version: "1.7.2"
-},
-{
-metadata: {
-id: "5db78037-f674-459f-a236-db622c427c5b",
-publisherId: "PKief.material-icon-theme",
-publisherDisplayName: "PKief"
-},
-name: "material-icon-theme",
-publisher: "PKief",
-version: "4.0.1"
-},
-{
-metadata: {
-id: "4f63037e-3a44-436f-a483-4c65a77f15f6",
-publisherId: "FallenMax.mithril-emmet",
-publisherDisplayName: "FallenMax"
-},
-name: "mithril-emmet",
-publisher: "FallenMax",
-version: "0.7.5"
-},
-{
-metadata: {
-id: "a41c1549-4053-44d4-bf30-60fc809b4a86",
-publisherId: "christian-kohler.path-intellisense",
-publisherDisplayName: "christian-kohler"
-},
-name: "path-intellisense",
-publisher: "christian-kohler",
-version: "1.4.2"
-},
-{
-metadata: {
-id: "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5",
-publisherId: "ms-python.python",
-publisherDisplayName: "ms-python"
-},
-name: "python",
-publisher: "ms-python",
-version: "2020.3.71659"
-},
-{
-metadata: {
-id: "f0c5397b-d357-4197-99f0-cb4202f22818",
-publisherId: "ms-vscode-remote.remote-wsl",
-publisherDisplayName: "ms-vscode-remote"
-},
-name: "remote-wsl",
-publisher: "ms-vscode-remote",
-version: "0.44.2"
-},
-{
-metadata: {
-id: "6a2bbab0-d8f0-43fa-9b26-e6a3b7892a0b",
-publisherId: "mtxr.sqltools",
-publisherDisplayName: "mtxr"
-},
-name: "sqltools",
-publisher: "mtxr",
-version: "0.21.6"
-},
-{
-metadata: {
-id: "cf5a111e-3bd1-4e32-9526-20ec73780741",
-publisherId: "vsciot-vscode.vscode-arduino",
-publisherDisplayName: "vsciot-vscode"
-},
-name: "vscode-arduino",
-publisher: "vsciot-vscode",
-version: "0.3.0"
-},
-{
-metadata: {
-id: "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
-publisherId: "dbaeumer.vscode-eslint",
-publisherDisplayName: "dbaeumer"
-},
-name: "vscode-eslint",
-publisher: "dbaeumer",
-version: "2.1.2"
-},
-{
-metadata: {
-id: "9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a",
-publisherId: "vscode-icons-team.vscode-icons",
-publisherDisplayName: "vscode-icons-team"
-},
-name: "vscode-icons",
-publisher: "vscode-icons-team",
-version: "10.1.1"
-},
-{
-metadata: {
-id: "ae9e3eb0-3357-4cc0-90ee-598d2d384757",
-publisherId: "eg2.vscode-npm-script",
-publisherDisplayName: "eg2"
-},
-name: "vscode-npm-script",
-publisher: "eg2",
-version: "0.3.11"
-},
-{
-metadata: {
-id: "2061917f-f76a-458a-8da9-f162de22b97e",
-publisherId: "redhat.vscode-yaml",
-publisherDisplayName: "redhat"
-},
-name: "vscode-yaml",
-publisher: "redhat",
-version: "0.7.2"
-},
-{
-metadata: {
-id: "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af",
-publisherId: "ms-vsliveshare.vsliveshare",
-publisherDisplayName: "ms-vsliveshare"
-},
-name: "vsliveshare",
-publisher: "ms-vsliveshare",
-version: "1.0.1947"
-}
+  {
+    "metadata": {
+      "id": "fa57ae0e-d21e-40d8-a0bb-a58b5fd9ead3",
+      "publisherId": "ms-vscode.atom-keybindings",
+      "publisherDisplayName": "ms-vscode"
+    },
+    "name": "atom-keybindings",
+    "publisher": "ms-vscode",
+    "version": "3.0.6"
+  },
+  {
+    "metadata": {
+      "id": "d3836729-9cc1-42c1-b2af-d50071f57d29",
+      "publisherId": "formulahendry.auto-close-tag",
+      "publisherDisplayName": "formulahendry"
+    },
+    "name": "auto-close-tag",
+    "publisher": "formulahendry",
+    "version": "0.5.6"
+  },
+  {
+    "metadata": {
+      "id": "6e440e71-8ed9-4f25-bb78-4b13096b8a03",
+      "publisherId": "formulahendry.auto-rename-tag",
+      "publisherDisplayName": "formulahendry"
+    },
+    "name": "auto-rename-tag",
+    "publisher": "formulahendry",
+    "version": "0.1.1"
+  },
+  {
+    "metadata": {
+      "id": "697255a9-3f36-44c8-b084-d3b91edfb23a",
+      "publisherId": "HookyQR.beautify",
+      "publisherDisplayName": "HookyQR"
+    },
+    "name": "beautify",
+    "publisher": "HookyQR",
+    "version": "1.5.0"
+  },
+  {
+    "metadata": {
+      "id": "2a658c1b-308a-41e8-805a-fc8abda483bc",
+      "publisherId": "thekalinga.bootstrap4-vscode",
+      "publisherDisplayName": "thekalinga"
+    },
+    "name": "bootstrap4-vscode",
+    "publisher": "thekalinga",
+    "version": "6.1.0"
+  },
+  {
+    "metadata": {
+      "id": "f583eafd-aa0d-4ccb-8f44-d1e610389660",
+      "publisherId": "CoenraadS.bracket-pair-colorizer",
+      "publisherDisplayName": "CoenraadS"
+    },
+    "name": "bracket-pair-colorizer",
+    "publisher": "CoenraadS",
+    "version": "1.0.61"
+  },
+  {
+    "metadata": {
+      "id": "1256df07-e7c0-4e17-bd23-96b617cf21bc",
+      "publisherId": "sldobri.bunker",
+      "publisherDisplayName": "sldobri"
+    },
+    "name": "bunker",
+    "publisher": "sldobri",
+    "version": "1.1.6"
+  },
+  {
+    "metadata": {
+      "id": "e337c67b-55c2-4fef-8949-eb260e7fb7fd",
+      "publisherId": "Shan.code-settings-sync",
+      "publisherDisplayName": "Shan"
+    },
+    "name": "code-settings-sync",
+    "publisher": "Shan",
+    "version": "3.4.3"
+  },
+  {
+    "metadata": {
+      "id": "690b692e-e8a9-493f-b802-8089d50ac1b2",
+      "publisherId": "ms-vscode.cpptools",
+      "publisherDisplayName": "ms-vscode"
+    },
+    "name": "cpptools",
+    "publisher": "ms-vscode",
+    "version": "0.27.0"
+  },
+  {
+    "metadata": {
+      "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
+      "publisherId": "eamodio.gitlens",
+      "publisherDisplayName": "eamodio"
+    },
+    "name": "gitlens",
+    "publisher": "eamodio",
+    "version": "10.2.1"
+  },
+  {
+    "metadata": {
+      "id": "6c6d4703-0393-49e4-bcbe-2c01f5184522",
+      "publisherId": "andrejunges.Handlebars",
+      "publisherDisplayName": "andrejunges"
+    },
+    "name": "Handlebars",
+    "publisher": "andrejunges",
+    "version": "0.4.1"
+  },
+  {
+    "metadata": {
+      "id": "8198faf3-ad10-462e-901a-16462816cc58",
+      "publisherId": "mfeckies.handlebars-formatter",
+      "publisherDisplayName": "mfeckies"
+    },
+    "name": "handlebars-formatter",
+    "publisher": "mfeckies",
+    "version": "0.0.5"
+  },
+  {
+    "metadata": {
+      "id": "a2cec723-5349-460d-9de9-0fd1f8d3456f",
+      "publisherId": "xabikos.JavaScriptSnippets",
+      "publisherDisplayName": "xabikos"
+    },
+    "name": "JavaScriptSnippets",
+    "publisher": "xabikos",
+    "version": "1.7.2"
+  },
+  {
+    "metadata": {
+      "id": "5db78037-f674-459f-a236-db622c427c5b",
+      "publisherId": "PKief.material-icon-theme",
+      "publisherDisplayName": "PKief"
+    },
+    "name": "material-icon-theme",
+    "publisher": "PKief",
+    "version": "4.0.1"
+  },
+  {
+    "metadata": {
+      "id": "4f63037e-3a44-436f-a483-4c65a77f15f6",
+      "publisherId": "FallenMax.mithril-emmet",
+      "publisherDisplayName": "FallenMax"
+    },
+    "name": "mithril-emmet",
+    "publisher": "FallenMax",
+    "version": "0.7.5"
+  },
+  {
+    "metadata": {
+      "id": "a41c1549-4053-44d4-bf30-60fc809b4a86",
+      "publisherId": "christian-kohler.path-intellisense",
+      "publisherDisplayName": "christian-kohler"
+    },
+    "name": "path-intellisense",
+    "publisher": "christian-kohler",
+    "version": "1.4.2"
+  },
+  {
+    "metadata": {
+      "id": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5",
+      "publisherId": "ms-python.python",
+      "publisherDisplayName": "ms-python"
+    },
+    "name": "python",
+    "publisher": "ms-python",
+    "version": "2020.3.71659"
+  },
+  {
+    "metadata": {
+      "id": "f0c5397b-d357-4197-99f0-cb4202f22818",
+      "publisherId": "ms-vscode-remote.remote-wsl",
+      "publisherDisplayName": "ms-vscode-remote"
+    },
+    "name": "remote-wsl",
+    "publisher": "ms-vscode-remote",
+    "version": "0.44.2"
+  },
+  {
+    "metadata": {
+      "id": "6a2bbab0-d8f0-43fa-9b26-e6a3b7892a0b",
+      "publisherId": "mtxr.sqltools",
+      "publisherDisplayName": "mtxr"
+    },
+    "name": "sqltools",
+    "publisher": "mtxr",
+    "version": "0.21.6"
+  },
+  {
+    "metadata": {
+      "id": "cf5a111e-3bd1-4e32-9526-20ec73780741",
+      "publisherId": "vsciot-vscode.vscode-arduino",
+      "publisherDisplayName": "vsciot-vscode"
+    },
+    "name": "vscode-arduino",
+    "publisher": "vsciot-vscode",
+    "version": "0.3.0"
+  },
+  {
+    "metadata": {
+      "id": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
+      "publisherId": "dbaeumer.vscode-eslint",
+      "publisherDisplayName": "dbaeumer"
+    },
+    "name": "vscode-eslint",
+    "publisher": "dbaeumer",
+    "version": "2.1.2"
+  },
+  {
+    "metadata": {
+      "id": "9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a",
+      "publisherId": "vscode-icons-team.vscode-icons",
+      "publisherDisplayName": "vscode-icons-team"
+    },
+    "name": "vscode-icons",
+    "publisher": "vscode-icons-team",
+    "version": "10.1.1"
+  },
+  {
+    "metadata": {
+      "id": "ae9e3eb0-3357-4cc0-90ee-598d2d384757",
+      "publisherId": "eg2.vscode-npm-script",
+      "publisherDisplayName": "eg2"
+    },
+    "name": "vscode-npm-script",
+    "publisher": "eg2",
+    "version": "0.3.11"
+  },
+  {
+    "metadata": {
+      "id": "2061917f-f76a-458a-8da9-f162de22b97e",
+      "publisherId": "redhat.vscode-yaml",
+      "publisherDisplayName": "redhat"
+    },
+    "name": "vscode-yaml",
+    "publisher": "redhat",
+    "version": "0.7.2"
+  },
+  {
+    "metadata": {
+      "id": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af",
+      "publisherId": "ms-vsliveshare.vsliveshare",
+      "publisherDisplayName": "ms-vsliveshare"
+    },
+    "name": "vsliveshare",
+    "publisher": "ms-vsliveshare",
+    "version": "1.0.1947"
+  }
 ]
