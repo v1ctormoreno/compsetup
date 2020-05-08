@@ -1,2 +1,2 @@
-# compsetup
-Computer setup routine
+# Computer Setup
+Computer setup routine.
